@@ -1,0 +1,150 @@
+.c2{
+    color:rgb(27, 212, 212);
+    background-color: brown;
+    text-align:end;
+    font-family:'Tillana', cursive;
+  }
+  body{
+    background-color: white;
+    color: black;
+    text-align:center;
+  }  
+  p{
+    font-size: 16px;
+    font-style:normal;
+    font-weight:400;
+    font-family:'Lato', sans-serif;
+    color:black;
+    text-align: left;
+    line-height: 1.9rem;
+  }
+  div{
+    height: 54px;
+    width:1976px;
+    background-color: rgb(3, 32, 65);
+    /* opacity */
+    margin-left:-32px;
+    margin-top:-8px;
+    color:white;
+    position:fixed;
+    z-index: 10;
+  
+  }
+  img{
+    height: 37px;
+    width:153px;
+    margin-left:10px;
+  }
+  #i2{
+    height: 521px;
+    width:1396px;
+    margin-left:-31px;
+    margin-top:46px;
+    font-style: italic;
+  
+    
+  }
+  #i3{
+    height:372px;
+    width:43%;
+    margin-left:514px;
+    margin-top:325px;
+    position: sticky;
+    z-index: 8;
+    
+  }
+  #b3
+  {
+    
+     background-color:rgba(0, 0, 0, 0.068);
+    height:213px;
+    width:478px;
+    border: white double 2px;
+    padding: 7px;
+    border-radius: 1px;
+    margin-bottom:-554px;
+    margin-left:-5px;
+    margin-top:34px;
+    position: sticky;
+    z-index: 9;
+  }
+  #b4
+  {
+    
+     background-color:rgba(0, 0, 0, 0.068);
+    height:213px;
+    width:494px;
+    border: white double 2px;
+    padding: 7px;
+    border-radius: 1px;
+    margin-bottom:-554px;
+    margin-left:680px;
+    margin-top:34px;
+    position: sticky;
+    z-index: 7;
+  }
+  #i4{
+    height:372px;
+    width:43%;
+    margin-left:-658px;
+    margin-top:325px;
+    position: sticky;
+    z-index: 6;
+  }
+  #b5
+  {
+    text-align: center;
+     background-color:rgb(3, 32, 65);
+    height:211px;
+    width:1288px;
+    border: rgb(255, 255, 255) double 2px;
+    padding: 7px;
+    border-radius: 1px;
+    margin-bottom:-554px;
+    margin-left:-10px;
+    margin-top:53px;
+    color:yellow;
+    font-size:xx-large;
+    font-family: 'Lato',sans-serif;
+    position: sticky;
+    z-index: 5;
+  }
+
+  #b6
+  {
+    text-align: left;
+     background-color:white;
+    height:211px;
+    width:1288px;
+    border: rgb(255, 255, 255) double 2px;
+    padding: 7px;
+    border-radius: 1px;
+    margin-bottom:-554px;
+    margin-left:-10px;
+    margin-top:550px;
+    color:black;
+    font-size:14px;
+    word-spacing: 16px;
+    position: absolute;
+    z-index: 4;
+   
+  }
+  #p2{
+    margin-left:303px;
+    margin-top:429px;
+    font-size:14px;
+  }
+  #i5{
+    margin-left:2px;
+  }
+  #b7{
+    height: 54px;
+    width:32px;
+    background-color: rgb(3, 32, 65);
+    /* opacity */
+    margin-left:-32px;
+    margin-top:-8px;
+    color:white;
+  
+    z-index: 10;
+  }
