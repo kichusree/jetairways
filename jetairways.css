@@ -10,7 +10,7 @@
     text-align:center;
   }  
   p{
-    font-size: 16px;
+    font-size: 12px;
     font-style:normal;
     font-weight:400;
     font-family:'Lato', sans-serif;
@@ -73,7 +73,7 @@
     
      background-color:rgba(0, 0, 0, 0.068);
     height:213px;
-    width:494px;
+    width:541px;
     border: white double 2px;
     padding: 7px;
     border-radius: 1px;
